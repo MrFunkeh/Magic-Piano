@@ -18,7 +18,7 @@
 4) Import the code into a compiler like Arduino IDE
 5) Connect the ESP32-C3 to your PC and upload the code to it.
 
-   # Assembly
+# Assembly
 
-   1) I suggest to print the piano keys first so you can then glue in and solder the LED's into the Keys.
-   2) You can fit
+1) I suggest to print the piano keys first so you can then glue in and solder the LED's into the Keys.
+2) You can fit
